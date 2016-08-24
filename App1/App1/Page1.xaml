@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Page1">
+
+  <StackLayout>
+    <Entry Placeholder="Name"></Entry>
+    <Entry Placeholder="Address, coordinates"></Entry>
+    <Button Text="GPS" BackgroundColor="Blue" TextColor="White"></Button>
+    <Image HorizontalOptions="Start" WidthRequest="120" Source="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1\p.gif"></Image>
+    <Button Text="Photo" BackgroundColor="Blue" WidthRequest="40" TextColor="White" HorizontalOptions="End"></Button>
+    <Button Text="Add" HorizontalOptions="Fill" BackgroundColor="Blue" TextColor="White"></Button>
+  </StackLayout>
+</ContentPage>

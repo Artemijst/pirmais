@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BEDMJ8C</Machine>
+    <WindowsUser>DEMO</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b860e1ff-e371-4210-9366-c350259dbdc9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DEMO</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>80683DB8B62E85AB59619F7919803C49F7BBD4FC5ACFB2B7516B2CB25CE0CBD3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b860e1ff-e371-4210-9366-c350259dbdc9_1.0.0.0_neutral__hzrjj7vw652y8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b860e1ff-e371-4210-9366-c350259dbdc9_hzrjj7vw652y8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b860e1ff-e371-4210-9366-c350259dbdc9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DEMO</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-22T16:20:55.904</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2016-08-22T17:13:57.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll">
+      <PackagePath>App1.dll</PackagePath>
+      <Modified>2016-08-22T17:13:22.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-22T14:12:24.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-22T14:12:24.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-22T14:12:24.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-22T14:12:24.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2016-08-22T16:20:54.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-08-22T16:20:54.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-08-22T16:20:54.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-17T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\demo\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-08-22T16:20:55.492</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
